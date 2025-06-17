@@ -1,5 +1,4 @@
-# Linear-Regression-From-Scratch
-A project that implements Linear Regression from scratch using Python.
+
 # 📈 Linear Regression from Scratch
 
 This project implements Linear Regression using only Python and NumPy without any external libraries like scikit-learn.
